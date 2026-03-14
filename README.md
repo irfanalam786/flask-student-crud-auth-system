@@ -93,13 +93,15 @@ pip install flask werkzeug
 ```
 python app.py
 ```
-
+![alt text](image.png)
 ### 3 Open Browser
 
 ```
 http://127.0.0.1:5000
-```
 
+```
+![alt text](image-1.png)
+![alt text](image-2.png)
 ---
 
 # Authentication Workflow
